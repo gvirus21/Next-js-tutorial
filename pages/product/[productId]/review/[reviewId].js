@@ -6,7 +6,6 @@ const Review = () => {
 
   return (
     <h1>
-      {" "}
       Review {reviewId} of product {productId}
     </h1>
   );
